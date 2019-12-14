@@ -7,7 +7,7 @@ but before
 and also after
 , strating with comma
 ending with a !
-
+Greetings from GitHub!
 that was it folks
 All good when ends good
 or something like that #greetings from local Git
