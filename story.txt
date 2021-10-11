@@ -10,6 +10,3 @@ ending with a !
 Greetings from Git gett!
 Greetings from GitHub!
 that was it folks
-All good when ends good
-or something like that #greetings from local Git
-
