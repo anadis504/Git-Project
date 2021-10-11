@@ -9,4 +9,4 @@ and then from github
 
 and more from Amandus
 
-conflict conflictx2
+conflict conflict from Amandus
