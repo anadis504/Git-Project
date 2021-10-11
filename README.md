@@ -10,3 +10,4 @@ and then from github
 and more from Amandus
 
 conflict conflict from Amandus
+conflict conflict from remote
