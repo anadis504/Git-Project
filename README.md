@@ -5,4 +5,4 @@ Merge conflict from Amandus
 Merge conflict from remote
 
 uusi tieto 
-täällä
+täällä gogo
