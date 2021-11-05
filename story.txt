@@ -1,2 +1,14 @@
-nothing here???
-where are uuu??
+A lot of text here #which we change through GitHub
+this is a story
+about something and then
+somethign else happened
+and then it was somethig else
+but before 
+and also after
+, strating with comma
+ending with a !
+Greetings from Git gett!
+Greetings from GitHub!
+that was it folks
+
+shiiiiiiit
