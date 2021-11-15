@@ -9,5 +9,4 @@ kdsafa
 jjjjsdfdsf
 stuff here
 
-from Amandus :''''D
-jhgfcvbnm,kjhmn b,jhv
+hey ho hey ho okidoe
