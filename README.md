@@ -9,5 +9,3 @@ kdsafa
 jjjjsdfdsf
 stuff here
 
-from Amandus :''''D
-change
