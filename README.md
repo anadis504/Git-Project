@@ -6,4 +6,4 @@ Merge conflict from remote
 ## newnew 
 kdsafa
 #### and here
-moerge conflict
+merge conflict
